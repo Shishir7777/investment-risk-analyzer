@@ -1,0 +1,13 @@
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor settings
+.vscode/
+.DS_Store
